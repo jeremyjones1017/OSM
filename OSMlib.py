@@ -28,6 +28,7 @@ h=6.626e-27 #Planck's constant in cm^2*g/s
 c=3e10 #Speed of light, cm/s
 k=1.381e-16 #Boltzmann constant erg/K
 
+#Change to test git commit
 
 def osm(p,data):
 	"""osm = Oblate Star Model
