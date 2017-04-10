@@ -1,0 +1,3 @@
+import OSMlib as osm
+
+osm.test(27.)

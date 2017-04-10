@@ -1,0 +1,6 @@
+#Oblate Star Model Input File
+Star				| HD106591												| The star name that gets used for file/directory names
+Model				| Test													| For distinguishing between different runs of the model (used in file/directory names)
+Star Directory		| C:/Users/Jeremy/Dropbox/Python/Astars/Stars/			| The directory that the stars are in
+Atmo Directory		| C:/Users/Jeremy/Phoenix_Spectra/						| The directory that the stellar atmosphere models are in
+Filter Directory	| C:/Users/Jeremy/Dropbox/Python/Astars/Band_Passes/	| The directory that the filter curves are in

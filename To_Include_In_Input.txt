@@ -1,0 +1,5 @@
+Things to include in the Oblate Star Model input list
+
+Directory location of phoenix spectra
+Metallicity used for phoenix spectra
+‘Mode’ - Fitting visibilities, photometry, or both

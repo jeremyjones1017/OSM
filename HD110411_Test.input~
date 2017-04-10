@@ -1,0 +1,22 @@
+#Oblate Star Model Input File
+Star				| HD110411												| The star name that gets used for file/directory names
+Model				| mcmc_thread_1											| For distinguishing between different runs of the model (used in file/directory names)
+Star Directory		| C:/Users/Jeremy/Dropbox/Python/Astars/Stars/			| The directory that the stars are in
+Atmo Directory		| C:/Users/Jeremy/Phoenix_Spectra/						| The directory that the stellar atmosphere models are in
+Atmo Metallicity	| Z-0.0													| The metallicity used for the atmosphere models
+Atmo Model			| Phoenix												| Which atmospher models are being used (only Phoenix works at the moment)
+Filter Directory	| C:/Users/Jeremy/Dropbox/Python/Astars/Band_Passes/	| The directory that the filter curves are in
+Calc Vis			| Y														| (Y/N) Should visibilities be calculated?
+Calc Phot			| N														| (Y/N) Should photometry be calculated?
+Calc Lum			| N														| (Y/N) Should luminosities be calculated?
+Calc Age			| N														| (Y/N) Should age be calculated?
+GPU Accel			| N														| (Y/N) Should GPU acceleration be used?
+Verbose				| Y														| (Y/N) Should outputs be printed?
+Gravity Darkening	| vZ													| (vZ/ELR) Gravity darkening law to be used - von Zeipel or Espinosa Lara & Rieutord
+Mass				| 1.8													| The mass (in M_sun) to be used
+Parallax			| 27.57													| The parallax (in mas) to be used
+Equatorial Radius	| 1.342													| The equatorial radius (in R_sun) to start with
+Equatorial Velocity	| 154.													| The equatorial velocity (in km/s) to start with
+Inclination			| 90.													| The inclination (in deg) to start with
+Polar Temperature	| 9500.													| The polar temperature (in K) to start with
+Position Angle		| 77.2													| The polar position angle (in deg) to start with
